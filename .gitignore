@@ -1,0 +1,11 @@
+node_modules
+
+.next
+
+address.txt
+
+/ethereum/web3.js
+/ethereum/factory.js
+/ethereum/deploy.js
+
+package-lock.json
